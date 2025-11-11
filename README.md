@@ -1,2 +1,3 @@
-# WebApp2-api-labs
-Web App development 2 api labs
+# WebApp Dev 2: API Labs
+
+Practical Labs for the WAD2 module
