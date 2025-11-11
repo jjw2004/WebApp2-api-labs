@@ -8,6 +8,9 @@ const app = express();
 
 const port = process.env.PORT;
 
+// Parse JSON request bodies
+app.use(express.json());
+
 // Serve static files (optional for homepage)
 app.use(express.static('public'));
 
